@@ -1,5 +1,5 @@
-# はじめに
-NyARToolkitの練習用のリポジトリです。
+# AR-Practice01
+[NyARToolkit] の練習用のリポジトリです。
 
-# 参考
-- [NyARToolkit](http://nyatla.jp/nyartoolkit/wp/)
+
+[NyARToolkit]: http://nyatla.jp/nyartoolkit/wp/
